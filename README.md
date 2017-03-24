@@ -1,3 +1,3 @@
-## Snake Game in a console with c++ languages
+## Snake Game in a console with c++ language
 
 
